@@ -92,7 +92,7 @@ Trois éléments vous sont donnés:
 3. xxxxxxxxxxx
 4. Bien le bonjour (Diego)
 5. Cool ça fonctionne ! ccccccccc
-6.
+6. STOP POSTING ABOUT AMONG US!!!1! ding ding ding ding ding ding ding, ding-ding-ding
 7.
 1. Salut
 9.
