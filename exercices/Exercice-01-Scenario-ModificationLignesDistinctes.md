@@ -95,7 +95,7 @@ Trois éléments vous sont donnés:
 6. lucas est cringe asf
 7.
 8. Salut
-9. Bonjour! (Luca)
+9. Meirino
 10. Je savais pas quoi écrire (inspiration/10)  
 
 ## Description détaillée et solution de l'exercice
