@@ -87,16 +87,16 @@ Trois éléments vous sont donnés:
 
 ## Lignes à modifier selon explications du scénario (ajouter un texte de votre choix)
 
-1. Mibombo
-2. ☺ Test Valentin
+1. Cavalheiro
+2. Zanolari
 3. C'est Christopher
 4. Verdon
 5. Cool ça fonctionne ! ccccccccc
-6. Cringe.
+6. s cyboz
 7.
 8. Salut
 9. Bonjour! (Luca)
-10. Je savais pas quoi écrire (inspiration/10)
+10. Ruffieux
 
 ## Description détaillée et solution de l'exercice
 
