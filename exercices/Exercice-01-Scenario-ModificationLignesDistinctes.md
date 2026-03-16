@@ -92,9 +92,9 @@ Trois éléments vous sont donnés:
 3. C'est Christopher
 4. Bien le bonjour (Diego)
 5. Cool ça fonctionne ! ccccccccc
-6. STOP POSTING ABOUT AMONG US!!!1! ding ding ding ding ding ding ding, ding-ding-ding
+6. Cringe.
 7.
-1. Salut
+8. Salut
 9. Bonjour! (Luca)
 10. Je savais pas quoi écrire (inspiration/10)  
 
