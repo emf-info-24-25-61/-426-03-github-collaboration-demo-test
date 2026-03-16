@@ -92,7 +92,7 @@ Trois éléments vous sont donnés:
 3. Colleran
 4. Verdon
 5. Cool ça fonctionne ! ccccccccc
-6. s cyboz
+6. scyboz
 7.
 8. Cardoso
 9. Meirino
