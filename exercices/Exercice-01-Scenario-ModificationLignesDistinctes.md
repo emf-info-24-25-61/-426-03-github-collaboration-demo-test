@@ -88,7 +88,7 @@ Trois éléments vous sont donnés:
 ## Lignes à modifier selon explications du scénario (ajouter un texte de votre choix)
 
 1. Mibombo
-2. ☺ Test Valentin
+2. Zanolari
 3. C'est Christopher
 4. Bien le bonjour (Diego)
 5. Cool ça fonctionne ! ccccccccc
