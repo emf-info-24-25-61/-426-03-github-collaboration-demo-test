@@ -92,7 +92,7 @@ Trois éléments vous sont donnés:
 3. C'est Christopher
 4. Bien le bonjour (Diego)
 5. Cool ça fonctionne ! ccccccccc
-6. lucas est cringe asf
+6. s cyboz
 7.
 8. Salut
 9. Bonjour! (Luca)
