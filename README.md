@@ -35,12 +35,11 @@ Vous trouverez ci-dessous un résumé des principales activités et actions atte
 - [La numérotation des versions](/README-VSC-Github.md#la-numérotation-des-versions)
 - [Les release](/README-VSC-Github.md#les-releases)
   
-
 ## Résumé des principales commandes Git
 
 ### Sous forme de tableau
 
-Voici un [tableau des principales commandes Git sous forme de tableau avec lien direct vers la documentation officielle en français](/README-Git-Commands.md).
+Voici un [tableau des principaldsdes commandes Git sous forme de tableau avec lien direct vers la documentation officielle en français](/README-Git-Commands.md).
 
 ### Sous forme de PDF "Cheat-sheet"
 

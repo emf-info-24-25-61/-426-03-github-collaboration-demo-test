@@ -91,10 +91,10 @@ Trois éléments vous sont donnés:
 2. ☺ Test Valentin
 3. C'est Christopher
 4. Bien le bonjour (Diego)
-5. Réseau <<<<< DEV
+5. Cool ça fonctionne ! ccccccccc
 6. Cringe.
-7. Diegolooo
-8. Dylan le plus goatesque des G.O.A.T.
+7.
+8. Salut
 9. Bonjour! (Luca)
 10. Je savais pas quoi écrire (inspiration/10)  
 
