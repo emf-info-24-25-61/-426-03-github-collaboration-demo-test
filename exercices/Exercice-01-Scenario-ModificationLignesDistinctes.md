@@ -28,7 +28,7 @@ sequenceDiagram
     Note over Alice: Alice a fini son travail<br/>Elle commit/push sur le repo
     Alice->>+repository: commit / push
     repository-->>-Alice: OK
-    
+
 
     Note over John: John a fini son travail<br/>Il veut commit/push sur le repo<br/>mais cela va échouer (conflit)
     John->>+repository: commit / push
@@ -51,50 +51,50 @@ Cet exercice s'effectue à 2 ou 3 personnes. Par conséquent vous formez les gro
 Pour cela l'enseignant (ou vous si vous avez les autorisations) ajoute les membres du groupe à ce seul repository.
 
 Trois éléments vous sont donnés:
-  
-- [Un schéma récapitulatif des étapes à effectuer](#description-schématique-de-lexercice)
 
-- [Les lignes à modifier pour effectuer l'exercice](#lignes-à-modifier-selon-explications-du-scénario-ajouter-un-texte-de-votre-choix)
+-   [Un schéma récapitulatif des étapes à effectuer](#description-schématique-de-lexercice)
 
-- [La description détaillée et solution en utilisant les menus du plugin github dans VSC](#description-détaillée-et-solution-de-lexercice)
+-   [Les lignes à modifier pour effectuer l'exercice](#lignes-à-modifier-selon-explications-du-scénario-ajouter-un-texte-de-votre-choix)
+
+-   [La description détaillée et solution en utilisant les menus du plugin github dans VSC](#description-détaillée-et-solution-de-lexercice)
 
 ## Description schématique de l'exercice
 
- ```mermaid
+```mermaid
 
-    flowchart TD
+   flowchart TD
 
-    A[Début de l'exercice] --> B[Tirer-pull les dernières modifications de ce repository]
-    B --> C[Répartition entre vous des lignes à compléter]
-    C --> D[Ajouter un texte court de votre choix]
+   A[Début de l'exercice] --> B[Tirer-pull les dernières modifications de ce repository]
+   B --> C[Répartition entre vous des lignes à compléter]
+   C --> D[Ajouter un texte court de votre choix]
 
-    D --> E[Utilisateur Alpha : Commit & Push]
-    E --> F[Modification synchronisée avec le dépôt distant]
+   D --> E[Utilisateur Alpha : Commit & Push]
+   E --> F[Modification synchronisée avec le dépôt distant]
 
 
-    D --> G[Utilisateur Beta : Attente]
-    G --> H[Utilisateur Beta : Commit & Push]
+   D --> G[Utilisateur Beta : Attente]
+   G --> H[Utilisateur Beta : Commit & Push]
 
-    H --> J[Utilisateur Beta : Git alerte qu'il ne peut pas effectuer le push]
-    J --> K[Utilisateur Beta : Effectuer un pull]
-    K --> L[Git effectue une fusion automatique]
-    L --> M[Utilisateur Beta : Push, pousser les modifications fusionnées]
-    M --> N[Contrôler que les modifications Alpha et Beta soient présentes dans le dépôt distant]
-    N --> O[Fin de l'exercice]
+   H --> J[Utilisateur Beta : Git alerte qu'il ne peut pas effectuer le push]
+   J --> K[Utilisateur Beta : Effectuer un pull]
+   K --> L[Git effectue une fusion automatique]
+   L --> M[Utilisateur Beta : Push, pousser les modifications fusionnées]
+   M --> N[Contrôler que les modifications Alpha et Beta soient présentes dans le dépôt distant]
+   N --> O[Fin de l'exercice]
 
 
 ```
 
 ## Lignes à modifier selon explications du scénario (ajouter un texte de votre choix)
 
-1. Mibombo
-2. ☺ Test Valentin
-3. C'est Christopher
-4. Bien le bonjour (Diego)
+1. Cavalheiro
+2. Zanolari
+3. Colleran
+4. Verdon
 5. Cool ça fonctionne ! ccccccccc
-6. lucas est cringe asf
+6. s cyboz
 7.
-8. Salut
+8. Cardoso
 9. Meirino
 10. Ruffieux  
 
@@ -108,31 +108,32 @@ Voici les étapes à suivre:
 
 ### 1. Avant de commencer, assurez-vous d'avoir tirer (pull) les dernières modifications sur ce repository
 
-- Lorsque chacun à effectué un pull, répartissez-vous les lignes ci-dessus à compléter.
+-   Lorsque chacun à effectué un pull, répartissez-vous les lignes ci-dessus à compléter.
 
 ### 2. Ajouter un texte court de votre choix
 
 ### 3. Effectuer à tour de rôle des commit&Push
 
-- Lorsque chacun à modifié ses lignes, effectuer à tour de rôle un commit&push et observer chez chacun se qui se passe:
-  - Le premier (utilisateur Alpha) qui effectue le commit&push ne devrait rencontrer aucun message de conflit.
-  - Le deuxième (utilisateur Beta) essaye d'effectuer un commit&push. Git va alors vous alerter que des modifications ont été effectuées
-     ![alt text](/doc/image.png)
+-   Lorsque chacun à modifié ses lignes, effectuer à tour de rôle un commit&push et observer chez chacun se qui se passe:
 
-  - Vous pouvez consulter le message de git-error, qui explique exactement ce qui se passe:
+    -   Le premier (utilisateur Alpha) qui effectue le commit&push ne devrait rencontrer aucun message de conflit.
+    -   Le deuxième (utilisateur Beta) essaye d'effectuer un commit&push. Git va alors vous alerter que des modifications ont été effectuées
+        ![alt text](/doc/image.png)
 
-     ![alt text](/doc/image-1.png)
+    -   Vous pouvez consulter le message de git-error, qui explique exactement ce qui se passe:
 
-  - Vous effectuez alors un pull (soit dans le terminal, soit avec le menu contextuel)
-  
-     ![alt text](/doc/image-2.png)
+        ![alt text](/doc/image-1.png)
 
-  - Git effectue automatiquement un Merge (fusionnement) des différentes modifications. Il vous reste à synchroniser ces changements sur le dépôt distant
-  
-    ![alt text](/doc/image-3.png)
+    -   Vous effectuez alors un pull (soit dans le terminal, soit avec le menu contextuel)
+
+        ![alt text](/doc/image-2.png)
+
+    -   Git effectue automatiquement un Merge (fusionnement) des différentes modifications. Il vous reste à synchroniser ces changements sur le dépôt distant
+
+        ![alt text](/doc/image-3.png)
 
 ### 4. Effectuer à tour de rôle des commit&Push
 
-- Vous contrôlez finalement que ces modifications sont bien présentes dans le repository distant
+-   Vous contrôlez finalement que ces modifications sont bien présentes dans le repository distant
 
     ![alt text](/doc/image-4.png)
