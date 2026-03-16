@@ -96,7 +96,7 @@ Trois éléments vous sont donnés:
 7.
 8. Salut
 9. Bonjour! (Luca)
-10. Je savais pas quoi écrire (inspiration/10)  
+10. Ruffieux  
 
 ## Description détaillée et solution de l'exercice
 
