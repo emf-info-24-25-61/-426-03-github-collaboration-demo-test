@@ -95,7 +95,7 @@ Trois éléments vous sont donnés:
 6.
 7.
 1. Salut
-9.
+9. Bonjour! 
 1.  Yo c'est Paul qui a modifié !
 
 ## Description détaillée et solution de l'exercice
