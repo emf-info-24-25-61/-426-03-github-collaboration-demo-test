@@ -96,7 +96,7 @@ Trois éléments vous sont donnés:
 7.
 1. Salut
 9.
-1.  Yo c'est Paul qui a modifié !
+10. Je savais pas quoi écrire (inspiration/10)  
 
 ## Description détaillée et solution de l'exercice
 
