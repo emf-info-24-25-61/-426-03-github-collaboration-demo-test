@@ -93,7 +93,7 @@ Trois éléments vous sont donnés:
 4. Bien le bonjour (Diego)
 5. Cool ça fonctionne ! ccccccccc
 6. lucas est cringe asf
-7.
+7. Fernandez
 8. Salut
 9. Bonjour! (Luca)
 10. Je savais pas quoi écrire (inspiration/10)  
