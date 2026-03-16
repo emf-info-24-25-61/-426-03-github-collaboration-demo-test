@@ -92,7 +92,7 @@ Trois éléments vous sont donnés:
 3. C'est Christopher
 4. Bien le bonjour (Diego)
 5. Cool ça fonctionne ! ccccccccc
-6. dire que quelqu'un est cringe en big 2026 c'est vraiment le seul truc cringe possible
+6. Qui lui dit...
 7.
 8. Salut
 9. Bonjour! (Luca)
