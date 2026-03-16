@@ -92,8 +92,8 @@ Trois éléments vous sont donnés:
 3. C'est Christopher
 4. Bien le bonjour (Diego)
 5. Réseau <<<<< DEV
-6.
-7.Diegolooo
+6. Cringe.
+7. Diegolooo
 8. Dylan le plus goatesque des G.O.A.T.
 9. Bonjour! (Luca)
 10. Je savais pas quoi écrire (inspiration/10)  
