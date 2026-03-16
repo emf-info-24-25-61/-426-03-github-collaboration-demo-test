@@ -88,7 +88,7 @@ Trois éléments vous sont donnés:
 ## Lignes à modifier selon explications du scénario (ajouter un texte de votre choix)
 
 1. Mibombo
-2. ☺ Test Valentin
+2. Zanolari
 3. C'est Christopher
 4. Bien le bonjour (Diego)
 5. Kliuchko
@@ -96,7 +96,7 @@ Trois éléments vous sont donnés:
 7.
 8. Salut
 9. Bonjour! (Luca)
-10. Je savais pas quoi écrire (inspiration/10)  
+10. Ruffieux  
 
 ## Description détaillée et solution de l'exercice
 
