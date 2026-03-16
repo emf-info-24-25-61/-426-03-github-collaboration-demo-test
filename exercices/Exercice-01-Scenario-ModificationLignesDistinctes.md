@@ -89,14 +89,14 @@ Trois éléments vous sont donnés:
 
 1. Mibombo
 2. ☺ Test Valentin
-3. C'est Christopher
+3. Colleran
 4. Bien le bonjour (Diego)
 5. Cool ça fonctionne ! ccccccccc
 6. lucas est cringe asf
 7.
-8. Salut
-9. Bonjour! (Luca)
-10. Je savais pas quoi écrire (inspiration/10)  
+1. Salut
+2. Bonjour! (Luca)
+3.  Je savais pas quoi écrire (inspiration/10)  
 
 ## Description détaillée et solution de l'exercice
 
