@@ -91,12 +91,12 @@ Trois éléments vous sont donnés:
 2. ☺ Test Valentin
 3. xxxxxxxxxxx
 4. Test
-5. Blablablalbaa
+5. Artememememem
 6.
 7.
-8. Salut
+1. Salut
 9.
-10. Yo c'est Paul qui a modifié !
+1.  Yo c'est Paul qui a modifié !
 
 ## Description détaillée et solution de l'exercice
 
