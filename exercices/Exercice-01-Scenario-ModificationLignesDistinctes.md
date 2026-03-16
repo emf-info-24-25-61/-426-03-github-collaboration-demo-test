@@ -93,7 +93,7 @@ Trois éléments vous sont donnés:
 4. Bien le bonjour (Diego)
 5. Cool ça fonctionne ! ccccccccc
 6.
-7.
+7.Diegolooo
 1. Salut
 9.
 1.  Yo c'est Paul qui a modifié !
