@@ -94,9 +94,9 @@ Trois éléments vous sont donnés:
 5. Cool ça fonctionne ! ccccccccc
 6. lucas est cringe asf
 7.
-1. Salut
-2. Bonjour! (Luca)
-3.  Je savais pas quoi écrire (inspiration/10)  
+8. Salut
+9. Bonjour! (Luca)
+10. Ruffieux  
 
 ## Description détaillée et solution de l'exercice
 
