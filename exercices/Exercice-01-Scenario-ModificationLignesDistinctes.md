@@ -87,7 +87,7 @@ Trois éléments vous sont donnés:
 
 ## Lignes à modifier selon explications du scénario (ajouter un texte de votre choix)
 
-1. Mibombo
+1. Cavalheiro
 2. ☺ Test Valentin
 3. C'est Christopher
 4. Bien le bonjour (Diego)
