@@ -87,16 +87,16 @@ Trois éléments vous sont donnés:
 
 ## Lignes à modifier selon explications du scénario (ajouter un texte de votre choix)
 
-1. modification Axelle
+1. Mibombo
 2. ☺ Test Valentin
-3. xxxxxxxxxxx
+3. C'est Christopher
 4. Bien le bonjour (Diego)
 5. Cool ça fonctionne ! ccccccccc
-6.
+6. dire que quelqu'un est cringe en big 2026 c'est vraiment le seul truc cringe possible
 7.
-1. Salut
-9.
-1.  Yo c'est Paul qui a modifié !
+8. Salut
+9. Bonjour! (Luca)
+10. Je savais pas quoi écrire (inspiration/10)  
 
 ## Description détaillée et solution de l'exercice
 
