@@ -94,7 +94,7 @@ Trois éléments vous sont donnés:
 5. Cool ça fonctionne ! ccccccccc
 6. lucas est cringe asf
 7.
-8. Salut
+8. Cardoso
 9. Bonjour! (Luca)
 10. Je savais pas quoi écrire (inspiration/10)  
 
