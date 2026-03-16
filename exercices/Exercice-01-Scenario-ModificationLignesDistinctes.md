@@ -87,16 +87,16 @@ Trois éléments vous sont donnés:
 
 ## Lignes à modifier selon explications du scénario (ajouter un texte de votre choix)
 
-1. modification Axelle 
+1. modification Axelle
 2. ☺ Test Valentin
 3. xxxxxxxxxxx
 4. Bien le bonjour (Diego)
 5. Cool ça fonctionne ! ccccccccc
 6.
 7.
-8. Salut
+1. Salut
 9.
-10. Bonjour
+1.  Yo c'est Paul qui a modifié !
 
 ## Description détaillée et solution de l'exercice
 
