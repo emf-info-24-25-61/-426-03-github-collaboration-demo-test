@@ -95,7 +95,7 @@ Trois éléments vous sont donnés:
 6. s cyboz
 7.
 8. Cardoso
-9. Bonjour! (Luca)
+9. ඞ (Luca)
 10. Ruffieux
 
 ## Description détaillée et solution de l'exercice
