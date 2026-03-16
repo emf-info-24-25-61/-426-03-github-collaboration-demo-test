@@ -95,7 +95,7 @@ Trois éléments vous sont donnés:
 6.
 7.Diegolooo
 1. Salut
-9.
+9. Bonjour! (Luca)
 10. Je savais pas quoi écrire (inspiration/10)  
 
 ## Description détaillée et solution de l'exercice
